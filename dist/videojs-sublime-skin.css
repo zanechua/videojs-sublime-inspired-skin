@@ -90,7 +90,7 @@
 }
 
 .vjs-sublime-skin .vjs-poster {
-    outline: none;
+    outline: none; /* Remove Blue Outline on Click*/
     outline: 0;
 }
 
@@ -100,7 +100,7 @@
 
 .vjs-sublime-skin .vjs-fullscreen-control:before,
 .vjs-sublime-skin.vjs-fullscreen .vjs-fullscreen-control:before {
-    content: '';
+    content: ''; /* Remove Fullscreen Exit Icon */
 }
 
 .vjs-sublime-skin.vjs-fullscreen .vjs-fullscreen-control {
@@ -146,7 +146,7 @@
 }
 
 .vjs-sublime-skin .vjs-playback-rate {
-    display: none;
+    display: none; /* Remove Playback Rate */
 }
 
 .vjs-sublime-skin .vjs-progress-control {
@@ -195,7 +195,7 @@
 .vjs-sublime-skin .vjs-mouse-display:before,
 .vjs-sublime-skin .vjs-play-progress:before,
 .vjs-sublime-skin .vjs-volume-level:before {
-    content: '';
+    content: ''; /* Remove Circle From Progress Bar */
 }
 
 .vjs-sublime-skin .vjs-mouse-display:after,
@@ -248,7 +248,7 @@
 }
 
 .vjs-sublime-skin .vjs-fullscreen-control .vjs-icon-placeholder {
-    display: none;
+    display: none; /* Remove Duplicate Fullscreen Icon */
 }
 
 .vjs-sublime-skin .vjs-volume-panel .vjs-mute-control {
