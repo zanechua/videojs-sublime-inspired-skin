@@ -1,6 +1,8 @@
 ## videojs-sublime-inspired-skin
 
-A [Video.js](http://www.videojs.com) skin modeled on [SublimeVideo](http://www.sublimevideo.net).
+A [Video.js](http://www.videojs.com) skin modeled on [SublimeVideo](http://www.sublimevideo.net)
+
+Compatible with VideoJS v5 and v6
 
 ## Demo
 
@@ -12,4 +14,4 @@ This theme was inspired from the original Sublime Video Theme and from the origi
 
 ## License
 
-This skin is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+This skin is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
